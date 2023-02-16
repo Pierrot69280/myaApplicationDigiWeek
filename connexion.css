@@ -1,0 +1,87 @@
+/* ---------------------------------------------------------------- */
+/* ENTRÉE */
+
+/* Réglage page */
+.background {
+    background-color: #DB8282;
+}
+
+/* ---------------------------------------------------------------- */
+/* param img  */
+.profil img {
+    border-style: solid;
+    border-color: rgb(255, 255, 255);
+    position: fixed;
+    margin-top: -450px;
+    margin-left: 0.5cm;
+    border-radius: 60%;
+    width: 90px;
+}
+
+.texte p {
+    font-size: 2em;
+    position: fixed;
+    margin-top: -450px;
+    margin-left: 3.5cm;
+    color: #ffff;
+
+}
+
+.top img{
+    width: 400px;
+    margin-left: -10px;
+    margin-top: -20px;    
+}
+
+img {
+    width: 200px;
+}
+
+#logoApp {
+    margin-top: 0.5cm;
+    margin-left: 85px;
+
+}
+
+/* identifiant */
+.identifiant{
+    color: #ffff;
+    margin-left: 100px;
+    margin-top: 320px;
+}
+
+/* ---------------------------------------------------------------- */
+/* mot de passe */
+.mdp {
+    color:#ffff;
+    margin-left: 100px;
+    margin-top: 10px;
+}
+
+/* ---------------------------------------------------------------- */
+/* connexion */
+.connexion {
+    position: fixed;
+    margin-top: 15px;
+    margin-left: 145px;
+
+}
+/* ---------------------------------------------------------------- */
+/* Créer un compte */
+
+/* style  */
+a {
+    color: black ;
+}
+
+/* position */
+a {
+    position: fixed;
+    margin-top: 90px;
+    margin-left: 130px;
+}
+
+.arrondi {
+    border-radius: 5%;
+
+}
